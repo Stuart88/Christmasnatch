@@ -1,0 +1,4 @@
+You take the knife. Adrenaline flows. Do you trust the words of your companion? Should you do as he says?
+
+FaceOff4--Remove your face
+FaceOff5--Slay companion
